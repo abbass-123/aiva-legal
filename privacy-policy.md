@@ -1,38 +1,40 @@
-Privacy Policy for AIVA
+# Privacy Policy for AIVA
 
 Last updated: January 2026
 
-AIVA (“we”, “our”, or “us”) respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the AIVA mobile application.
+AIVA respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the AIVA mobile application.
 
-Information We Collect
-	•	Text messages you send to the app
-	•	Files or images you choose to upload
-	•	Voice input (processed only when you use voice features)
+## Information We Collect
+- Messages you send to the app
+- Files and images you upload
+- Basic usage data (such as feature usage)
 
-We do not collect your name, email, phone number, or exact location.
+We do NOT collect:
+- Your real name
+- Your email address
+- Your precise location
+- Contacts or personal files outside the app
 
-How We Use Information
-	•	To provide AI responses
-	•	To improve app performance and reliability
-	•	To enforce usage limits on free plans
+## How We Use Information
+- To generate AI responses
+- To improve app performance
+- To enforce free and paid usage limits
 
-Your data is not sold to third parties.
+## Data Storage
+Messages may be temporarily processed to provide responses. We do not sell or share your data with third parties.
 
-Data Storage
-Messages may be temporarily processed to generate responses. We do not permanently store personal conversations unless required for app functionality.
+## Subscriptions
+If you purchase AIVA Pro, Apple handles all payments. We do not store payment information.
 
-Third-Party Services
-AIVA may use third-party AI services to generate responses. These services process data securely and in compliance with applicable laws.
+## Security
+We use industry-standard security practices to protect your data.
 
-Children’s Privacy
-AIVA is not intended for children under 13. We do not knowingly collect data from children.
+## Children
+AIVA is not intended for children under 13.
 
-Your Rights
-You may stop using the app at any time. No account or personal profile is required.
+## Changes
+This policy may be updated. Continued use of the app means acceptance of changes.
 
-Changes to This Policy
-We may update this policy occasionally. Updates will be posted on this page.
-
-Contact
+## Contact
 If you have questions, contact us at:
 support@aiva.app
